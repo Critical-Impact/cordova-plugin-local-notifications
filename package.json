@@ -1,7 +1,7 @@
 {
   "name": "de.appplant.cordova.plugin.local-notification",
   "cordova_name": "Cordova LocalNotification Plugin",
-  "version": "0.8.5",
+  "version": "0.8.6",
   "description": "Schedules and queries for local notifications",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -39,10 +39,6 @@
       "version": ">=4.2.0"
     }
   ],
-  "dependencies": {
-    "cordova-plugin-device": "*",
-    "cordova-plugin-app-event": ">=1.1.0"
-  },
   "author": "Sebastián Katzer",
   "license": "Apache-2.0",
   "bugs": {
